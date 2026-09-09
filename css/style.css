@@ -2471,3 +2471,10 @@ body.figure-active .edge-figure-fixed {
 .scale-80 {
   width: 80%;
 }
+
+.kpo-logo {
+  width: 300%;
+  max-width: none;
+  height: auto;
+  margin-bottom: 15px;
+}
